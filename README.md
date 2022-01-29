@@ -1,2 +1,2 @@
 # supreme-Portfolio
-Projects compiled together during my education, interests, and knowledge growth.
+Projects compiled during my education, interests, and knowledge growth.
